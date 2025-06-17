@@ -1,2 +1,2 @@
 # Biryani-chowk
- It is frontend project by using Bootstrap, HTML,CSS ,Javascript.
+This is frontend project by using Bootstrap, HTML,CSS ,Javascript.
